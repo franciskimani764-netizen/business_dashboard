@@ -1,0 +1,10 @@
+# Light cream theme (enforced so dark-mode browsers don't break the design)
+[theme]
+base = "light"
+primaryColor = "#2C3E50"
+backgroundColor = "#FFF8E7"
+secondaryBackgroundColor = "#F6ECCF"
+textColor = "#2C3E50"
+
+[client]
+toolbarMode = "minimal"
